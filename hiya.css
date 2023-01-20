@@ -1,0 +1,75 @@
+body {
+    background-color: #FFFCFE;
+}
+
+.cover{
+    background-color: #CA7CBC;
+    transform: rotate(-10deg);
+    border-radius: 0px 0px 0px 100px;
+    height: 600px;
+    margin-top: -220px;
+    z-index: 1;
+    position: relative;
+}
+
+.navbar{
+    margin-top: -350px;
+    z-index: 2;
+}
+
+.text{
+    z-index: 2;
+    margin-top: -220px;
+}
+
+.fav {
+    margin-top: 70px;
+}
+
+.card {
+    border-radius: 20px;
+    border: none;
+}
+
+.fav h3 {
+    color: #CB47B3;
+}
+
+.about {
+    margin-top: 80px;
+    border-radius: 20px;
+}
+
+.title {
+    color: #CB47B3;
+}
+
+.content {
+    text-align: justify;
+    color: #E171CC;
+}
+
+.top{
+    margin-top: 60px;
+}
+
+.bot{
+    margin-top: 30px;
+}
+
+.paragraph{
+    margin-top: 35px;
+}
+
+.btnp{
+    color: #CA7CBC;
+}
+
+.margin{
+    margin-top: -250px;
+    z-index: 4;
+}
+
+.idunno{
+    margin-top: 23px;
+}
