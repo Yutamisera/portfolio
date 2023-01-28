@@ -13,7 +13,7 @@ body {
 }
 
 .navbar{
-    margin-top: -350px;
+    margin-top: -360px;
     z-index: 2;
 }
 
@@ -35,8 +35,7 @@ body {
     color: #CB47B3;
 }
 
-.about {
-    margin-top: 80px;
+.about{
     border-radius: 20px;
 }
 
